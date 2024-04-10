@@ -5,4 +5,5 @@ Note that this code makes use of LAPACK. To compile with LAPACK, please type
 
 $> [name of the compiler] Rashba.f90 -llapack -lblas
 
+Reference:
 Anderson, E., Bai, Z., Bischof, S., C. andBlackford, Demmel, J., Dongarra, J., J. andDu Croz, Greenbaum, A., … Sorensen, D. (1999). LAPACK Users&#x27; Guide (Third). Philadelphia, PA: Society for Industrial and Applied Mathematics.
